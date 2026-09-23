@@ -1,10 +1,4 @@
-Haan bhai 😄 **ab exactly samajh gaya**.
 
-Tumhe **poora README ek hi single ` ``` ` code block ke andar** chahiye — **andar kahin bhi doosra code block nahi**, taaki tum **ek baar mein pura copy-paste** kar sako.
-
-Ye lo, **single block only**:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dipanshu%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20CDAC%20Advanced%20Computing%20%7C%20Backend%20Learner&descAlignY=55&descSize=16"/>
