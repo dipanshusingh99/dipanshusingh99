@@ -1,70 +1,65 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C853&height=220&section=header&text=Dipanshu%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Learner&descAlignY=58&descSize=20" width="100%"/>
-
 # 👋 Hi, I'm Dipanshu Singh
 
-### ☕ Java Developer | SQL | JDBC | MySQL
+### ☕ Java Developer | Backend Development | Problem Solving
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dipansusingh99&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-<p>
-  <a href="https://github.com/dipansusingh99">
-    <img src="https://img.shields.io/badge/GitHub-dipansusingh99-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</div>
+💻 Passionate about building Java-based applications  
+🌱 Currently learning Spring, Spring Boot, Hibernate/JPA & Microservices  
+🧠 Practicing DSA and strengthening Core Java concepts  
+🚀 Focused on becoming a strong Java Backend Developer
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science and Engineering
-
-☕ Focused on **Java Development**
-
-🗄️ Working with **SQL, MySQL and JDBC**
-
-💻 Building **console-based Java applications**
-
-🧩 Interested in **Backend Development**
-
-💡 Practicing **Data Structures & Algorithms**
-
-🌱 Currently learning **Spring, Spring Boot, Hibernate, JPA and Microservices**
-
-🎯 Looking for opportunities as a **Java Developer**
+- 🎓 B.Tech in Computer Science Engineering
+- ☕ Strong foundation in Core Java
+- 🧩 Interested in Java Backend Development
+- 🗄️ Working with MySQL and JDBC
+- 🌱 Currently learning Spring & Spring Boot
+- 🔗 Exploring REST APIs and backend development
+- 🧠 Practicing Data Structures & Algorithms
+- 🛠️ Building console-based and backend projects
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### ☕ Programming
+### ☕ Programming Language
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Connectivity
+### 🗄️ Database
 
 <p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Development Environment
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-4285F4?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
 
 ---
@@ -73,139 +68,67 @@
 
 ### 🏥 Hospital Management System
 
-Console-based Hospital Management System developed using **Java, JDBC and MySQL**.
+**Tech Stack:** `Core Java` `OOP` `JDBC` `MySQL`
 
-- 👨‍⚕️ Hospital record management
-- 🗄️ MySQL database integration
-- 🔌 JDBC connectivity
-- 💻 Console-based Java application
-- 🧩 Object-Oriented Programming concepts
-- ⚠️ Exception handling
+A console-based Hospital Management System developed using Java and MySQL.
 
-**Tech Stack:** `Java` `JDBC` `MySQL`
-
----
-
-### 🏦 Banking System
-
-Java-based Banking System developed using **Java, JDBC and MySQL**.
-
-- 👤 Customer registration
-- 🗄️ MySQL database integration
-- 🔌 JDBC connectivity
-- 💳 Banking operations
-- 🧩 Java OOP concepts
-
-**Tech Stack:** `Java` `JDBC` `MySQL`
+**Features:**
+- 👨‍⚕️ Doctor Management
+- 🧑‍🤝‍🧑 Patient Management
+- 📅 Appointment Booking
+- 🗄️ MySQL Database Integration
+- ⚠️ Exception Handling
 
 ---
 
-### 📚 Library Management System
+### 🏦 Bank Management System
 
-Console-based Library Management System developed using **Java, JDBC and MySQL**.
+**Tech Stack:** `Java` `JDBC` `MySQL` `OOP`
 
-- 📖 Book management
-- 👤 User management
-- 📥 Book issue and return
-- 🗄️ MySQL database integration
-- 🔌 JDBC connectivity
+A console-based banking application for managing users, accounts and transactions.
 
-**Tech Stack:** `Java` `JDBC` `MySQL`
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
-
-</div>
+**Features:**
+- 👤 User Registration & Login
+- 💰 Debit & Credit
+- 🔄 Money Transfer
+- 💳 Balance Checking
+- 🔐 Account Management
+- 🗄️ Database Connectivity using JDBC
 
 ---
 
-## 💻 Coding & Problem Solving
+### 📚 Java Practice & Assignments
 
-I am currently preparing for **Java coding rounds** and practicing:
+**Tech Stack:** `Core Java` `OOP` `Collections` `Exception Handling`
 
-- 🔢 Arrays
-- 🔤 Strings
-- 🔍 Searching
-- 📊 Sorting
-- 🔢 Number problems
-- 🧩 Basic Data Structures
-- ☕ Java Collections
+Regularly practicing Java programming through hands-on assignments and coding problems.
 
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dipansusingh99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipansusingh99&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipansusingh99&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="45%"/>
-
-</div>
+**Topics:**
+- ☕ Core Java
+- 🧱 OOP
+- 🔄 Inheritance
+- 🎭 Polymorphism
+- 🔒 Encapsulation
+- 🧩 Abstraction
+- 📦 Collections
+- ⚠️ Exception Handling
+- 🔍 Problem Solving
 
 ---
 
-## 🏆 GitHub Activity
+## 🧠 Core Java Skills
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipansusingh99&theme=tokyonight" width="100%"/>
-
-</div>
-
----
-
-## 🎯 My Goals
-
-🚀 Start my career as a **Java Developer**
-
-☕ Strengthen my **Core Java** skills
-
-🌱 Build real-world **Spring Boot applications**
-
-🗄️ Improve **SQL and Database** skills
-
-💡 Strengthen **DSA and problem-solving**
-
-🔨 Build more **Backend applications**
-
-📈 Continuously learn and improve
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/dipansusingh99">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C853&height=120&section=footer" width="100%"/>
-
-</div>
+```text
+☕ Core Java
+├── OOP
+├── Classes & Objects
+├── Constructors
+├── Inheritance
+├── Polymorphism
+├── Encapsulation
+├── Abstraction
+├── Interfaces
+├── Exception Handling
+├── Collections Framework
+├── Generics
+└── JDBC
